@@ -1,0 +1,76 @@
+.navbar{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.logoo{
+    margin-left: 50px;
+    height: 10;
+    width: 10;
+} 
+.l6{
+    margin-left: 300px;
+}
+.l7{
+    margin-top: 10px;
+}
+.l1{
+    margin-top: 9px;
+}
+.l2{
+    margin-top: 9px;
+}
+.l3{
+    margin-top: 9px;
+}
+.l4{
+    margin-top: 9px;
+}
+.divone{
+    background-color: gainsboro;
+    font-family: 'Edu TAS Beginner', cursive;
+}
+.hone{
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.shoe1{
+    margin-top: -20px;
+}
+h4{
+    margin-left: 10px;
+    font-family: 'Montserrat', sans-serif;   
+}
+.card-img-top {
+    background-color: gainsboro;
+}
+.strongone{
+    font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Open Sans', sans-serif;
+color:white;
+
+}
+.foot{
+    background-color: black;
+}
+ul{
+    font-size: small;
+}
+.col{
+    font-family: 'Montserrat', sans-serif;
+}
+.fa-facebook {
+    color: white;
+    text-decoration: none;
+}
+.fa-twitter{
+    color: white;
+    text-decoration: none;
+}
+.fa-pinterest{
+    color: white;
+    text-decoration: none ;
+}
+.fa-instagram{
+    color: white;
+    text-decoration: none;
+}
